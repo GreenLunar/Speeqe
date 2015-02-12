@@ -15,3 +15,9 @@ CONTRIBUTORS
 	Matt McInerney 
 	Bedrich Rios
 	Collin Grady
+
+RUNNING INSTANCES
+
+List of `running
+instances <https://github.com/thepug/Speeqe/wiki/SpeeqeInstances>`__.
+
